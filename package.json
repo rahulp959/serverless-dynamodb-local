@@ -1,5 +1,5 @@
 {
-    "name": "serverless-dynamodb-local",
+    "name": "@rahulp959/serverless-dynamodb-local",
     "version": "0.2.42",
     "engines": {
         "node": ">=4.0"
