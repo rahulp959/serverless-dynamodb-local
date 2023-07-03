@@ -5,7 +5,7 @@
         "node": ">=4.0"
     },
     "description": "Serverless dynamodb local plugin",
-    "author": "99xtechnology.com",
+    "author": "Rahul Parkar",
     "license": "MIT",
     "repository": {
         "type": "git",
