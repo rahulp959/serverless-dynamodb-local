@@ -1,6 +1,6 @@
 {
     "name": "@rahulp959/serverless-dynamodb-local",
-    "version": "0.2.42",
+    "version": "0.2.43",
     "engines": {
         "node": ">=4.0"
     },
@@ -34,7 +34,7 @@
     "dependencies": {
         "aws-sdk": "^2.7.0",
         "bluebird": "^3.4.6",
-        "@rahulp959/dynamodb-localhost": "0.0.10",
+        "@rahulp959/dynamodb-localhost": "0.0.11",
         "lodash": "^4.17.0"
     },
     "devDependencies": {
